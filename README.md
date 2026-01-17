@@ -45,7 +45,6 @@ The model is trained on preprocessed transaction data and evaluated using standa
   - Feature scaling
   - Train-test split
 
-*(Dataset source can be added here if public.)*
 
 ---
 
